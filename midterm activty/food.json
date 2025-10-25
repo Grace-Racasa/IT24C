@@ -1,0 +1,24 @@
+[
+    {
+        "name":"Jollibee",
+        "description":"best among the rest",
+        "img": "job.jpg",
+        "lat": 8.367376,
+        "lng": 124.865311
+    },
+    {
+        "name":"PlayFullBistro",
+        "description":"barbeque food for all",
+       "img": "BQ.jpg",
+        "lat": 8.367393,
+        "lng": 124.866449
+    },
+    {
+        "name":"Andoks",
+        "description":"masarap",
+        "img": "24477_grande.jpg",
+        "lat": 8.367434,
+        "lng":124.866145
+    }
+
+]
